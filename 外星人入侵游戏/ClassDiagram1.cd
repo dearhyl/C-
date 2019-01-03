@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="外星人入侵游戏.Helpers.Alien" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAEAAgAAAAAMAgAIAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Helpers\Alien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="外星人入侵游戏.Helpers.BlueSprite" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\BlueSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="外星人入侵游戏.Helpers.Bullet" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="外星人入侵游戏.Helpers.Fighter" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAEAAAAAAAAAAAEAAAAAAEAAAQAAAAAAAAgAAAA=</HashCode>
+      <FileName>Helpers\Fighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="外星人入侵游戏.Helpers.GreenSprite" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\GreenSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="外星人入侵游戏.Helpers.RedSprite" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\RedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="外星人入侵游戏.Helpers.Sprite" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAJAAIAAAAAAAAEAAAAIEAAAAAAAAEAAEAAAAAA=</HashCode>
+      <FileName>Helpers\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="外星人入侵游戏.Helpers.Tent" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAABAAAAA=</HashCode>
+      <FileName>Helpers\Tent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
